@@ -15,3 +15,4 @@ I'm relatively new to github despite my account age, but this is where I'll be u
 - 🐥 I've worked in the games industry for 2+ years
 - 🎮 Shipped over a dozen games
 - 🕹️ Worked with huge brands like adidas, NASCAR and Juice WRLD
+- 🤖 No vibe coding
